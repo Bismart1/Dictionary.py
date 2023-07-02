@@ -1,0 +1,28 @@
+s1={'NAME':'ANAND','MATHS2':'96','BASIC ELECTRONICS':'97','PFPS':'98','CIVIL':'99'}
+s2={'NAME':'BINIT','MATHS2':'91','BASIC ELECTRONICS':'93','PFPS':'89','CIVIL':'90'}
+s3={'NAME':'CHINMAY','MATHS2':'67','BASIC ELECTRONICS':'89','PFPS':'78','CIVIL':'79'}       
+s4={'NAME':'DHIREN','MATHS2':'44','BASIC ELECTRONICS':'35','PFPS':'45','CIVIL':'10'}
+s5={'NAME':'EHSHAN','MATHS2':'56','BASIC ELECTRONICS':'97','PFPS':'91','CIVIL':'84'}
+
+print("FIRST DICTIONARY:\n")
+print(s1)
+print(s2)
+print(s3)
+print(s4)    
+print(s5)
+
+s11={'NAME':'ANAND','TOTAL':'390'}
+s12={'NAME':'BINIT','TOTAL':'363'}
+s13={'NAME':'CHINMAY','TOTAL':'313'}
+s14={'NAME':'DHIREN','TOTAL':'134'}
+s15={'NAME':'EHSAN','TOTAL':'328'}
+
+print("SECOND DICTIONARY:\n")
+print(s11)
+print(s12)
+print(s13)
+print(s14)
+print(s15)
+
+print("THE TOPPER IS ANAND WITH A SCORE OF 390!")
+
